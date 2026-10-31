@@ -51,7 +51,7 @@ In-memory data; no authentication; no automated frontend tests; add a database, 
 
 Watch the complete demonstration of our Emergency Assistance Coordinator project.
 
-[▶ Watch Project Demonstration on LinkedIn](https://lnkd.in/p/gYqBfhxe)
+[▶ Watch Project Demonstration on LinkedIn](https://lnkd.in/p/gXicNGH8)
 
 ## Group contributions
 | Member | Contribution |
